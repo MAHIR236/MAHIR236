@@ -16,7 +16,7 @@ A Computer Science & Technology (CST) student who enjoys turning logic into code
 **Learning next:** Data Structures & Algorithms basics  
 **Tools:** Git, GitHub, VS Code, Termux
 
-## 📂 What You'll Find in My Repos
+## 📂 What You'll Find in My Repository.
 
 Practice problems, coursework projects, and the occasional "it works, don't ask me how" script — all part of the learning process.
 
